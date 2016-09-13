@@ -1,7 +1,7 @@
 {
   "name": "sampleService",
   "description": "A starter project for AngularJS",
-  "version": "0.0.0",
+  "version": "v0.0.1",
   "homepage": "https://github.com/angular/angular-seed",
   "license": "MIT",
   "private": false,
